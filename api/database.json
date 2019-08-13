@@ -1,24 +1,30 @@
 {
-  "posts": [
+  "contacts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Kelly Coles",
+      "phoneNumber": "6158122660",
+      "streetAddress": "5253 Sallee Drive",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zip": 37129,
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Kelly Smith",
+      "phoneNumber": "6158122660",
+      "streetAddress": "5253 Long blvd",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "id": 2
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Catherine Kelly Coles",
+      "phoneNumber": "6158122660",
+      "streetAddress": "5253",
+      "city": "Murfreesboro",
+      "state": "Tennessee",
+      "zip": "37129",
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
